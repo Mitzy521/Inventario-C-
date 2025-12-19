@@ -1,2 +1,2 @@
 # Inventario-C-
-Desarrollo de un Inventario Virtual
+Desarrollé un sistema de inventario en C# que gestiona productos mediante una lista dinámica, permitiéndome realizar las operaciones fundamentales de un ABC (Altas, Bajas y Cambios). La lógica consiste en capturar los datos de cada artículo para agregarlos a la colección, utilizar consultas con LINQ para localizar elementos específicos por su identificador cuando necesito editarlos o eliminarlos, y desplegar la información en consola mediante un ciclo interactivo.
